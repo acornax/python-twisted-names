@@ -1,2 +1,0 @@
-version=3
-http://tmrc.mit.edu/mirror/twisted/Names/(\d\.\d)/ TwistedNames-([\d\.]*)\.tar\.bz2
